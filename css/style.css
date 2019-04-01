@@ -97,6 +97,13 @@ footer {
         Page Portfolio
 ******************************/
 
+#topic {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #bdc3c7;
+}
+
 #gallery {
   margin: 0;
   padding: 0;
