@@ -10,6 +10,7 @@ body {
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%;
+  min-height: 83vh;
 }
 
 img {
@@ -102,6 +103,7 @@ footer {
   padding: 0;
   text-align: center;
   color: #bdc3c7;
+  padding-bottom: 20px;
 }
 
 #gallery {
