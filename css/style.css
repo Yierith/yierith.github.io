@@ -98,7 +98,8 @@ footer {
         Page Portfolio
 ******************************/
 
-.topic {
+.topic,
+.secondTopic {
   margin: 0;
   padding: 0;
   text-align: center;
@@ -106,13 +107,15 @@ footer {
   padding-bottom: 20px;
 }
 
-.gallery {
+.gallery,
+.secondGallery {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.gallery li {
+.gallery li,
+.secondGallery li {
   float:left;
   width: 45%;
   margin: 2.5%;
@@ -120,7 +123,8 @@ footer {
   color: #bdc3c7;
 }
 
-.gallery li a p{
+.gallery li a p,
+.secondGallery li a p{
   margin: 0;
   padding: 5%;
   font-size: 0.75em;
